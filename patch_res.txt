@@ -1,0 +1,705 @@
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$2
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$7
+INSTRUMENTED io.netty.channel.epoll.EpollEventLoopGroup
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$3
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$5
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollChannel$2
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$4
+INSTRUMENTED io.netty.channel.epoll.EpollEventLoop
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$SpliceInChannelTask
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$1
+INSTRUMENTED io.netty.channel.epoll.EpollEventLoop$2
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$8
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollStreamChannel$6
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$2
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$3
+INSTRUMENTED io.netty.channel.epoll.AbstractEpollChannel$1
+Problem with org/springframework/http/client/OkHttp3AsyncClientHttpRequest$OkHttpListenableFuture$1.class: java.lang.NoClassDefFoundError: okhttp3/Callback
+Problem with org/springframework/http/codec/multipart/SynchronossPartHttpMessageReader$FluxSinkAdapterListener.class: java.lang.NoClassDefFoundError: org/synchronoss/cloud/nio/multipart/NioMultipartParserListener
+Problem with org/springframework/http/server/reactive/UndertowHttpHandlerAdapter.class: java.lang.NoClassDefFoundError: io/undertow/server/HttpHandler
+Problem with org/springframework/http/converter/json/GsonBuilderUtils$Base64TypeAdapter.class: java.lang.NoClassDefFoundError: com/google/gson/JsonSerializer
+Problem with org/springframework/web/jsf/DelegatingPhaseListenerMulticaster.class: java.lang.NoClassDefFoundError: javax/faces/event/PhaseListener
+Problem with org/springframework/web/jsf/DelegatingNavigationHandlerProxy.class: java.lang.NoClassDefFoundError: javax/faces/application/NavigationHandler
+Problem with org/springframework/web/jsf/DecoratingNavigationHandler.class: java.lang.NoClassDefFoundError: javax/faces/application/NavigationHandler
+Problem with org/springframework/web/context/support/GroovyWebApplicationContext.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+INSTRUMENTED org.apache.logging.log4j.simple.SimpleLogger
+INSTRUMENTED org.apache.logging.log4j.status.StatusLogger
+INSTRUMENTED org.apache.logging.log4j.spi.AbstractLogger
+Problem with org/apache/logging/log4j/util/Activator.class: java.lang.NoClassDefFoundError: org/osgi/framework/BundleActivator
+INSTRUMENTED org.apache.logging.log4j.spi.ExtendedLoggerWrapper
+Problem with META-INF/versions/9/org/apache/logging/log4j/util/ProcessIdUtil.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/ProcessIdUtil (wrong name: META-INF/versions/9/org/apache/logging/log4j/util/ProcessIdUtil)
+Problem with META-INF/versions/9/org/apache/logging/log4j/util/StackLocator.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/StackLocator (wrong name: META-INF/versions/9/org/apache/logging/log4j/util/StackLocator)
+Problem with module-info.class: java.lang.NoClassDefFoundError: module-info is not a class because access_flag ACC_MODULE is set
+INSTRUMENTED io.netty.handler.proxy.ProxyHandler$2
+INSTRUMENTED io.netty.handler.proxy.ProxyHandler$LazyChannelPromise
+INSTRUMENTED io.netty.handler.proxy.ProxyHandler$1
+Problem with org/springframework/aop/aspectj/AspectJExpressionPointcut$BeanPointcutDesignatorHandler.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/tools/PointcutDesignatorHandler
+Problem with org/springframework/aop/aspectj/RuntimeTestWalker$InstanceOfResidueTestVisitor.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/ast/ITestVisitor
+Problem with org/springframework/aop/aspectj/autoproxy/AspectJAwareAdvisorAutoProxyCreator$PartiallyComparableAdvisorHolder.class: java.lang.NoClassDefFoundError: org/aspectj/util/PartialOrder$PartialComparable
+Problem with org/springframework/aop/aspectj/RuntimeTestWalker$SubtypeSensitiveVarTypeTestVisitor.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/ast/ITestVisitor
+Problem with org/springframework/aop/aspectj/RuntimeTestWalker$TestVisitorAdapter.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/ast/ITestVisitor
+Problem with org/springframework/aop/aspectj/RuntimeTestWalker$ThisInstanceOfResidueTestVisitor.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/ast/ITestVisitor
+Problem with org/springframework/aop/aspectj/AspectJExpressionPointcut$BeanContextMatcher.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/tools/ContextBasedMatcher
+Problem with org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.class: java.lang.NoClassDefFoundError: org/aspectj/lang/ProceedingJoinPoint
+Problem with org/springframework/aop/aspectj/RuntimeTestWalker$TargetInstanceOfResidueTestVisitor.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/ast/ITestVisitor
+Problem with org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint$MethodSignatureImpl.class: java.lang.NoClassDefFoundError: org/aspectj/lang/reflect/MethodSignature
+Problem with org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint$SourceLocationImpl.class: java.lang.NoClassDefFoundError: org/aspectj/lang/reflect/SourceLocation
+Problem with org/springframework/aop/aspectj/AspectJWeaverMessageHandler.class: java.lang.NoClassDefFoundError: org/aspectj/bridge/IMessageHandler
+Problem with org/springframework/aop/aspectj/AspectJExpressionPointcut$DefensiveShadowMatch.class: java.lang.NoClassDefFoundError: org/aspectj/weaver/tools/ShadowMatch
+Problem with org/springframework/aop/target/CommonsPool2TargetSource.class: java.lang.NoClassDefFoundError: org/apache/commons/pool2/PooledObjectFactory
+INSTRUMENTED io.netty.handler.codec.spdy.SpdySessionHandler$4
+INSTRUMENTED io.netty.handler.codec.http.HttpServerUpgradeHandler$1
+INSTRUMENTED io.netty.handler.codec.http.websocketx.extensions.WebSocketServerExtensionHandler$1
+INSTRUMENTED io.netty.handler.codec.http.websocketx.WebSocketServerHandshaker$1
+INSTRUMENTED io.netty.handler.codec.http.websocketx.WebSocketClientProtocolHandshakeHandler$1
+INSTRUMENTED io.netty.handler.codec.http.websocketx.WebSocketClientHandshaker$3
+INSTRUMENTED io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandshakeHandler$1
+INSTRUMENTED io.netty.handler.codec.http.cors.CorsConfig$DateValueGenerator
+INSTRUMENTED io.netty.handler.codec.http.cors.CorsConfigBuilder$ConstantValueGenerator
+INSTRUMENTED io.netty.handler.codec.http.HttpObjectAggregator$1
+INSTRUMENTED io.netty.handler.codec.http.HttpObjectAggregator$2
+INSTRUMENTED io.netty.handler.codec.spdy.SpdySessionHandler$2
+INSTRUMENTED io.netty.handler.codec.spdy.SpdySessionHandler$3
+INSTRUMENTED io.netty.handler.codec.spdy.SpdyFrameCodec$1
+INSTRUMENTED io.netty.handler.codec.http.websocketx.WebSocketClientHandshaker$2
+INSTRUMENTED io.netty.handler.codec.http.websocketx.WebSocketClientHandshaker$1
+INSTRUMENTED io.netty.handler.codec.http.cors.CorsConfigBuilder$DateValueGenerator
+INSTRUMENTED io.netty.handler.codec.spdy.SpdySessionHandler$1
+INSTRUMENTED io.netty.handler.codec.spdy.SpdySessionHandler$ClosingChannelFutureListener
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslServerContext$TrustManagerVerifyCallback.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/CertificateVerifier
+INSTRUMENTED io.netty.handler.ssl.SslHandler$5
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslClientContext$ExtendedTrustManagerVerifyCallback.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/CertificateVerifier
+Problem with io/netty/handler/ssl/JettyAlpnSslEngine$ClientEngine$1.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/alpn/ALPN$ClientProvider
+INSTRUMENTED io.netty.handler.ssl.SslHandler$LazyChannelPromise
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslClientContext$OpenSslCertificateRequestedCallback.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/CertificateRequestedCallback
+INSTRUMENTED io.netty.handler.timeout.IdleStateHandler$1
+INSTRUMENTED io.netty.handler.timeout.IdleStateHandler$AbstractIdleTask
+INSTRUMENTED io.netty.handler.timeout.WriteTimeoutHandler$WriteTimeoutTask
+INSTRUMENTED io.netty.handler.flush.FlushConsolidationHandler$1
+INSTRUMENTED io.netty.handler.ipfilter.UniqueIpFilter$1
+Problem with io/netty/handler/ssl/ConscryptAlpnSslEngine$ClientEngine$1.class: java.lang.NoClassDefFoundError: org/conscrypt/HandshakeListener
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslClientContext$TrustManagerVerifyCallback.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/CertificateVerifier
+Problem with io/netty/handler/ssl/JettyNpnSslEngine$1.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/npn/NextProtoNego$ServerProvider
+INSTRUMENTED io.netty.handler.ssl.SslHandler$8
+Problem with io/netty/handler/ssl/ConscryptAlpnSslEngine$ServerEngine$1.class: java.lang.NoClassDefFoundError: org/conscrypt/HandshakeListener
+Problem with io/netty/handler/ssl/JettyNpnSslEngine$2.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/npn/NextProtoNego$ClientProvider
+Problem with io/netty/handler/ssl/ConscryptAlpnSslEngine$BufferAllocatorAdapter.class: java.lang.NoClassDefFoundError: org/conscrypt/BufferAllocator
+INSTRUMENTED io.netty.handler.ssl.SslHandler$3
+INSTRUMENTED io.netty.handler.ssl.SslHandler$8$1
+INSTRUMENTED io.netty.handler.ssl.SslHandler$2
+INSTRUMENTED io.netty.handler.ssl.SslHandler$1
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslServerContext$OpenSslSniHostnameMatcher.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/SniHostNameMatcher
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslServerContext$ExtendedTrustManagerVerifyCallback.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/CertificateVerifier
+INSTRUMENTED io.netty.handler.timeout.IdleStateHandler$ReaderIdleTimeoutTask
+INSTRUMENTED io.netty.handler.timeout.IdleStateHandler$WriterIdleTimeoutTask
+INSTRUMENTED io.netty.handler.traffic.GlobalChannelTrafficShapingHandler$2
+INSTRUMENTED io.netty.handler.traffic.GlobalTrafficShapingHandler$1
+INSTRUMENTED io.netty.handler.traffic.TrafficCounter$TrafficMonitoringTask
+INSTRUMENTED io.netty.handler.traffic.ChannelTrafficShapingHandler$1
+INSTRUMENTED io.netty.handler.stream.ChunkedWriteHandler$3
+INSTRUMENTED io.netty.handler.stream.ChunkedWriteHandler$2
+Problem with io/netty/handler/ssl/ConscryptAlpnSslEngine$BufferAdapter.class: java.lang.NoClassDefFoundError: org/conscrypt/AllocatedBuffer
+INSTRUMENTED io.netty.handler.ssl.SslHandler$7
+Problem with io/netty/handler/ssl/ReferenceCountedOpenSslContext$AbstractCertificateVerifier.class: java.lang.NoClassDefFoundError: io/netty/internal/tcnative/CertificateVerifier
+Problem with io/netty/handler/ssl/JettyAlpnSslEngine$ServerEngine$1.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/alpn/ALPN$ServerProvider
+INSTRUMENTED io.netty.handler.timeout.IdleStateHandler$AllIdleTimeoutTask
+INSTRUMENTED io.netty.handler.traffic.GlobalChannelTrafficCounter$MixedTrafficMonitoringTask
+INSTRUMENTED io.netty.handler.traffic.AbstractTrafficShapingHandler$ReopenReadTimerTask
+INSTRUMENTED io.netty.handler.stream.ChunkedWriteHandler$1
+INSTRUMENTED io.netty.handler.stream.ChunkedWriteHandler$4
+INSTRUMENTED org.apache.tomcat.websocket.AsyncChannelWrapperNonSecure$NoOpFuture
+INSTRUMENTED org.apache.tomcat.websocket.AsyncChannelWrapperSecure$LongToIntegerFuture
+INSTRUMENTED org.apache.tomcat.websocket.AsyncChannelWrapperSecure$ReadTask
+INSTRUMENTED org.apache.tomcat.websocket.AsyncChannelWrapperSecure$WebSocketSslHandshakeThread
+INSTRUMENTED org.apache.tomcat.websocket.AsyncChannelWrapperSecure$WrapperFuture
+INSTRUMENTED org.apache.tomcat.websocket.AsyncChannelWrapperSecure$WriteTask
+INSTRUMENTED org.apache.tomcat.websocket.BackgroundProcessManager$WsBackgroundThread
+INSTRUMENTED org.apache.tomcat.websocket.FutureToSendHandler
+INSTRUMENTED org.apache.tomcat.websocket.server.WsRemoteEndpointImplServer$OnResultRunnable
+Problem with org/springframework/amqp/rabbit/log4j2/AmqpAppender$AmqpManager.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/appender/AbstractManager
+Problem with org/springframework/amqp/rabbit/log4j2/AmqpAppender.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/appender/AbstractAppender
+INSTRUMENTED org.apache.http.impl.client.AutoRetryHttpClient
+INSTRUMENTED org.apache.http.impl.client.MinimalHttpClient
+INSTRUMENTED org.apache.http.impl.client.IdleConnectionEvictor$1
+INSTRUMENTED org.apache.http.impl.client.DefaultHttpClient
+INSTRUMENTED org.apache.http.impl.client.DefaultRedirectStrategy
+INSTRUMENTED org.apache.http.impl.client.DefaultRedirectStrategyAdaptor
+INSTRUMENTED org.apache.http.impl.client.AbstractHttpClient
+INSTRUMENTED org.apache.http.impl.client.InternalHttpClient
+INSTRUMENTED org.apache.http.impl.client.CloseableHttpClient
+INSTRUMENTED org.apache.http.impl.client.LaxRedirectStrategy
+INSTRUMENTED org.apache.http.impl.client.HttpRequestFutureTask
+INSTRUMENTED org.apache.http.impl.client.HttpRequestTaskCallable
+INSTRUMENTED org.apache.http.impl.client.DecompressingHttpClient
+INSTRUMENTED org.apache.http.impl.client.SystemDefaultHttpClient
+INSTRUMENTED ch.qos.logback.core.AsyncAppenderBase$Worker
+Problem with ch/qos/logback/core/net/LoginAuthenticator.class: java.lang.NoClassDefFoundError: javax/mail/Authenticator
+INSTRUMENTED io.netty.handler.codec.compression.JdkZlibEncoder$1
+INSTRUMENTED io.netty.handler.codec.compression.Lz4FrameEncoder$1
+INSTRUMENTED io.netty.handler.codec.compression.JdkZlibEncoder$2
+INSTRUMENTED io.netty.handler.codec.compression.Bzip2Encoder$1
+INSTRUMENTED io.netty.handler.codec.compression.Bzip2Encoder$2
+INSTRUMENTED io.netty.handler.codec.compression.JZlibEncoder$2
+INSTRUMENTED io.netty.handler.codec.compression.Lz4FrameEncoder$3
+INSTRUMENTED io.netty.handler.codec.compression.JZlibEncoder$1
+INSTRUMENTED io.netty.handler.codec.compression.Bzip2Encoder$3
+Problem with io/netty/handler/codec/marshalling/LimitingByteInput.class: java.lang.NoClassDefFoundError: org/jboss/marshalling/ByteInput
+Problem with io/netty/handler/codec/marshalling/ChannelBufferByteInput.class: java.lang.NoClassDefFoundError: org/jboss/marshalling/ByteInput
+INSTRUMENTED io.netty.handler.codec.MessageAggregator$1
+INSTRUMENTED io.netty.handler.codec.compression.JZlibEncoder$3
+INSTRUMENTED io.netty.handler.codec.compression.Lz4FrameEncoder$2
+INSTRUMENTED io.netty.handler.codec.compression.JdkZlibEncoder$3
+Problem with io/netty/handler/codec/marshalling/ChannelBufferByteOutput.class: java.lang.NoClassDefFoundError: org/jboss/marshalling/ByteOutput
+Problem with org/springframework/web/servlet/support/JstlUtils$SpringLocalizationContext.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/jstl/fmt/LocalizationContext
+INSTRUMENTED org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.ReactiveTypeHandler$JsonEmitterSubscriber
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.StreamingResponseBodyReturnValueHandler$StreamingResponseBodyTask
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.ReactiveTypeHandler$AbstractEmitterSubscriber
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.ReactiveTypeHandler$TextEmitterSubscriber
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.ResponseBodyEmitter$DefaultCallback
+INSTRUMENTED org.springframework.web.servlet.mvc.method.annotation.ReactiveTypeHandler$SseEmitterSubscriber
+INSTRUMENTED org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter
+INSTRUMENTED org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter
+INSTRUMENTED org.springframework.web.servlet.FrameworkServlet
+Problem with org/springframework/web/servlet/tags/EscapeBodyTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/BodyTag
+Problem with org/springframework/web/servlet/tags/ParamTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/BodyTagSupport
+Problem with org/springframework/web/servlet/tags/ArgumentTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/BodyTagSupport
+Problem with org/springframework/web/servlet/tags/NestedPathTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/UrlTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/HtmlEscapeTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/HtmlEscapingAwareTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/BindTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/BindErrorsTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/RequestContextAwareTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/EvalTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/ThemeTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/MessageTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/form/ButtonTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/CheckboxTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/CheckboxesTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/FormTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/OptionsTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/AbstractHtmlElementTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/LabelTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/RadioButtonsTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/SelectTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/RadioButtonTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/HiddenInputTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/AbstractHtmlInputElementTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/TextareaTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/PasswordInputTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/OptionTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/BodyTag
+Problem with org/springframework/web/servlet/tags/form/InputTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/AbstractCheckedElementTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/AbstractFormTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/form/AbstractSingleCheckedElementTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/AbstractMultiCheckedElementTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/DynamicAttributes
+Problem with org/springframework/web/servlet/tags/form/ErrorsTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/BodyTag
+Problem with org/springframework/web/servlet/tags/form/AbstractHtmlElementBodyTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/BodyTag
+Problem with org/springframework/web/servlet/tags/form/AbstractDataBoundFormElementTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+Problem with org/springframework/web/servlet/tags/TransformTag.class: java.lang.NoClassDefFoundError: javax/servlet/jsp/tagext/TryCatchFinally
+INSTRUMENTED org.springframework.web.servlet.FrameworkServlet$1
+INSTRUMENTED org.springframework.web.servlet.HttpServletBean
+INSTRUMENTED org.springframework.web.servlet.handler.SimpleServletHandlerAdapter
+INSTRUMENTED org.springframework.web.servlet.DispatcherServlet
+INSTRUMENTED org.springframework.web.servlet.resource.ResourceUrlEncodingFilter$ResourceUrlEncodingResponseWrapper
+Problem with org/springframework/web/servlet/view/freemarker/FreeMarkerConfigurer.class: java.lang.NoClassDefFoundError: org/springframework/ui/freemarker/FreeMarkerConfigurationFactory
+Problem with org/springframework/web/servlet/view/tiles3/SpringBeanPreparerFactory.class: java.lang.NoClassDefFoundError: org/apache/tiles/preparer/factory/PreparerFactory
+Problem with org/springframework/web/servlet/view/tiles3/TilesConfigurer$SpringCompleteAutoloadTilesInitializer.class: java.lang.NoClassDefFoundError: org/apache/tiles/extras/complete/CompleteAutoloadTilesInitializer
+Problem with org/springframework/web/servlet/view/tiles3/TilesConfigurer$SpringCompleteAutoloadTilesContainerFactory.class: java.lang.NoClassDefFoundError: org/apache/tiles/extras/complete/CompleteAutoloadTilesContainerFactory
+Problem with org/springframework/web/servlet/view/tiles3/AbstractSpringPreparerFactory.class: java.lang.NoClassDefFoundError: org/apache/tiles/preparer/factory/PreparerFactory
+Problem with org/springframework/web/servlet/view/tiles3/SimpleSpringPreparerFactory.class: java.lang.NoClassDefFoundError: org/apache/tiles/preparer/factory/PreparerFactory
+Problem with org/springframework/web/servlet/view/tiles3/TilesView$1.class: java.lang.NoClassDefFoundError: org/apache/tiles/request/servlet/ServletRequest
+Problem with org/springframework/web/servlet/view/tiles3/SpringWildcardServletTilesApplicationContext.class: java.lang.NoClassDefFoundError: org/apache/tiles/request/servlet/ServletApplicationContext
+Problem with org/springframework/web/servlet/view/tiles3/SpringLocaleResolver.class: java.lang.NoClassDefFoundError: org/apache/tiles/locale/impl/DefaultLocaleResolver
+Problem with org/springframework/web/servlet/view/tiles3/TilesConfigurer$SpringTilesContainerFactory.class: java.lang.NoClassDefFoundError: org/apache/tiles/factory/BasicTilesContainerFactory
+Problem with org/springframework/web/servlet/view/tiles3/TilesConfigurer$SpringTilesInitializer.class: java.lang.NoClassDefFoundError: org/apache/tiles/startup/DefaultTilesInitializer
+Problem with org/springframework/web/servlet/view/tiles3/TilesView$2.class: java.lang.NoClassDefFoundError: org/apache/tiles/request/servlet/ServletRequest
+Problem with org/springframework/web/servlet/view/groovy/GroovyMarkupConfigurer.class: java.lang.NoClassDefFoundError: groovy/text/markup/TemplateConfiguration
+Problem with org/springframework/web/servlet/view/groovy/GroovyMarkupConfigurer$LocaleTemplateResolver.class: java.lang.NoClassDefFoundError: groovy/text/markup/TemplateResolver
+INSTRUMENTED javax.servlet.http.HttpServlet
+INSTRUMENTED javax.servlet.http.HttpServletResponseWrapper
+INSTRUMENTED javax.servlet.http.NoBodyResponse
+INSTRUMENTED org.apache.catalina.connector.Response
+INSTRUMENTED org.apache.catalina.connector.ResponseFacade
+INSTRUMENTED org.apache.catalina.core.ApplicationContext
+INSTRUMENTED org.apache.catalina.core.ApplicationContextFacade
+INSTRUMENTED org.apache.catalina.core.ApplicationDispatcher
+INSTRUMENTED org.apache.catalina.core.ApplicationFilterChain
+INSTRUMENTED org.apache.catalina.core.ApplicationHttpResponse
+INSTRUMENTED org.apache.catalina.core.AsyncContextImpl$AsyncRunnable
+INSTRUMENTED org.apache.catalina.core.AsyncContextImpl$RunnableWrapper
+INSTRUMENTED org.apache.catalina.core.AsyncContextImpl
+INSTRUMENTED org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor
+INSTRUMENTED org.apache.catalina.core.ContainerBase$StartChild
+INSTRUMENTED org.apache.catalina.core.ContainerBase$StopChild
+INSTRUMENTED org.apache.catalina.core.StandardContext$NoPluggabilityServletContext
+INSTRUMENTED org.apache.catalina.filters.AddDefaultCharsetFilter$ResponseWrapper
+INSTRUMENTED org.apache.catalina.filters.CsrfPreventionFilter$CsrfResponseWrapper
+INSTRUMENTED org.apache.catalina.filters.ExpiresFilter$XHttpServletResponse
+INSTRUMENTED org.apache.catalina.loader.ParallelWebappClassLoader
+INSTRUMENTED org.apache.catalina.loader.WebappClassLoader
+INSTRUMENTED org.apache.catalina.loader.WebappClassLoaderBase
+INSTRUMENTED org.apache.catalina.manager.HTMLManagerServlet
+INSTRUMENTED org.apache.catalina.manager.JMXProxyServlet
+INSTRUMENTED org.apache.catalina.manager.ManagerServlet
+INSTRUMENTED org.apache.catalina.manager.StatusManagerServlet
+INSTRUMENTED org.apache.catalina.manager.host.HTMLHostManagerServlet
+INSTRUMENTED org.apache.catalina.manager.host.HostManagerServlet
+INSTRUMENTED org.apache.catalina.servlets.CGIServlet$CGIRunner$1
+INSTRUMENTED org.apache.catalina.servlets.CGIServlet
+INSTRUMENTED org.apache.catalina.servlets.DefaultServlet
+INSTRUMENTED org.apache.catalina.servlets.WebdavServlet
+INSTRUMENTED org.apache.catalina.ssi.ResponseIncludeWrapper
+INSTRUMENTED org.apache.catalina.ssi.SSIServlet
+INSTRUMENTED org.apache.catalina.startup.Catalina$CatalinaShutdownHook
+INSTRUMENTED org.apache.catalina.startup.HostConfig$DeployDescriptor
+INSTRUMENTED org.apache.catalina.startup.HostConfig$DeployDirectory
+INSTRUMENTED org.apache.catalina.startup.HostConfig$DeployWar
+INSTRUMENTED org.apache.catalina.startup.SafeForkJoinWorkerThreadFactory$SafeForkJoinWorkerThread
+INSTRUMENTED org.apache.catalina.startup.UserConfig$DeployUserDirectory
+INSTRUMENTED org.apache.coyote.AbstractProtocol$AsyncTimeout
+INSTRUMENTED org.apache.coyote.http2.StreamRunnable
+INSTRUMENTED org.apache.juli.AsyncFileHandler$LoggerThread
+INSTRUMENTED org.apache.juli.ClassLoaderLogManager$Cleaner
+INSTRUMENTED org.apache.juli.ClassLoaderLogManager$RootLogger
+INSTRUMENTED org.apache.juli.FileHandler$2
+Problem with org/apache/naming/factory/MailSessionFactory$1$1.class: java.lang.NoClassDefFoundError: javax/mail/Authenticator
+INSTRUMENTED org.apache.tomcat.util.net.AbstractEndpoint$Acceptor
+INSTRUMENTED org.apache.tomcat.util.net.AprEndpoint$Acceptor
+INSTRUMENTED org.apache.tomcat.util.net.AprEndpoint$Poller
+INSTRUMENTED org.apache.tomcat.util.net.AprEndpoint$Sendfile
+INSTRUMENTED org.apache.tomcat.util.net.AprEndpoint$SocketProcessor
+INSTRUMENTED org.apache.tomcat.util.net.AprEndpoint$SocketWithOptionsProcessor
+INSTRUMENTED org.apache.tomcat.util.net.Nio2Channel$1
+INSTRUMENTED org.apache.tomcat.util.net.Nio2Endpoint$1
+INSTRUMENTED org.apache.tomcat.util.net.Nio2Endpoint$Acceptor
+INSTRUMENTED org.apache.tomcat.util.net.Nio2Endpoint$SocketProcessor
+INSTRUMENTED org.apache.tomcat.util.net.NioBlockingSelector$BlockPoller$RunnableAdd
+INSTRUMENTED org.apache.tomcat.util.net.NioBlockingSelector$BlockPoller$RunnableCancel
+INSTRUMENTED org.apache.tomcat.util.net.NioBlockingSelector$BlockPoller$RunnableRemove
+INSTRUMENTED org.apache.tomcat.util.net.NioBlockingSelector$BlockPoller
+INSTRUMENTED org.apache.tomcat.util.net.NioEndpoint$Acceptor
+INSTRUMENTED org.apache.tomcat.util.net.NioEndpoint$Poller
+INSTRUMENTED org.apache.tomcat.util.net.NioEndpoint$PollerEvent
+INSTRUMENTED org.apache.tomcat.util.net.NioEndpoint$SocketProcessor
+INSTRUMENTED org.apache.tomcat.util.net.SecureNio2Channel$FutureFlush
+INSTRUMENTED org.apache.tomcat.util.net.SecureNio2Channel$FutureRead
+INSTRUMENTED org.apache.tomcat.util.net.SecureNio2Channel$FutureWrite
+INSTRUMENTED org.apache.tomcat.util.net.SocketProcessorBase
+INSTRUMENTED org.apache.tomcat.util.threads.TaskThread$WrappingRunnable
+INSTRUMENTED org.apache.tomcat.util.threads.TaskThread
+INSTRUMENTED io.netty.channel.SucceededChannelFuture
+INSTRUMENTED io.netty.channel.socket.nio.NioSocketChannel$3
+INSTRUMENTED io.netty.channel.socket.nio.NioSocketChannel$2
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$16
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$5
+INSTRUMENTED io.netty.channel.embedded.EmbeddedChannel$EmbeddedChannelPipeline
+INSTRUMENTED io.netty.channel.SingleThreadEventLoop
+INSTRUMENTED io.netty.channel.FailedChannelFuture
+INSTRUMENTED io.netty.channel.ThreadPerChannelEventLoop$1
+INSTRUMENTED io.netty.channel.AbstractChannel$CloseFuture
+INSTRUMENTED io.netty.channel.VoidChannelPromise
+INSTRUMENTED io.netty.bootstrap.AbstractBootstrap$2
+INSTRUMENTED io.netty.bootstrap.Bootstrap$1
+INSTRUMENTED io.netty.bootstrap.ServerBootstrap$1$1
+INSTRUMENTED io.netty.channel.ChannelFutureListener$1
+INSTRUMENTED io.netty.channel.pool.SimpleChannelPool$5
+INSTRUMENTED io.netty.channel.pool.FixedChannelPool$3
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$6
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$WriteAndFlushTask
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$15
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$3
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$14
+INSTRUMENTED io.netty.channel.nio.NioEventLoop
+INSTRUMENTED io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext$1
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$3
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask
+INSTRUMENTED io.netty.channel.group.DefaultChannelGroupFuture$1
+INSTRUMENTED io.netty.channel.group.DefaultChannelGroupFuture
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$7
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$8
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$6
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline
+INSTRUMENTED io.netty.channel.local.LocalChannel$2
+INSTRUMENTED io.netty.channel.local.LocalChannel$3
+INSTRUMENTED io.netty.channel.local.LocalChannel$5
+INSTRUMENTED io.netty.channel.socket.oio.OioSocketChannel$2
+INSTRUMENTED io.netty.channel.socket.oio.OioSocketChannel$1
+INSTRUMENTED io.netty.channel.socket.oio.OioSocketChannel$3
+INSTRUMENTED io.netty.channel.socket.oio.OioSocketChannel$4
+INSTRUMENTED io.netty.channel.socket.nio.NioSocketChannel$4
+INSTRUMENTED io.netty.channel.DefaultChannelProgressivePromise
+INSTRUMENTED io.netty.channel.embedded.EmbeddedChannel$1
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$2
+INSTRUMENTED io.netty.channel.ThreadPerChannelEventLoop$2
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$4
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$4
+INSTRUMENTED io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor$2
+INSTRUMENTED io.netty.channel.ChannelOutboundBuffer$3
+INSTRUMENTED io.netty.channel.ChannelOutboundBuffer$2
+INSTRUMENTED io.netty.channel.oio.AbstractOioChannel$1
+INSTRUMENTED io.netty.channel.oio.AbstractOioChannel$3
+INSTRUMENTED io.netty.channel.oio.AbstractOioChannel$2
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$9
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$WriteTask
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$1
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$4
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$8
+INSTRUMENTED io.netty.channel.ChannelFutureListener$3
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$PendingHandlerRemovedTask
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$2
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$12
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$6
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$3
+INSTRUMENTED io.netty.channel.MultithreadEventLoopGroup
+INSTRUMENTED io.netty.channel.DefaultChannelPromise
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$4$1
+INSTRUMENTED io.netty.channel.ChannelFutureListener$2
+INSTRUMENTED io.netty.channel.pool.FixedChannelPool$2
+INSTRUMENTED io.netty.channel.pool.FixedChannelPool$TimeoutTask
+INSTRUMENTED io.netty.channel.pool.FixedChannelPool$5
+INSTRUMENTED io.netty.channel.pool.SimpleChannelPool$2
+INSTRUMENTED io.netty.channel.pool.SimpleChannelPool$3
+INSTRUMENTED io.netty.channel.pool.FixedChannelPool$1
+INSTRUMENTED io.netty.channel.DelegatingChannelPromiseNotifier
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$5
+INSTRUMENTED io.netty.bootstrap.AbstractBootstrap$1
+INSTRUMENTED io.netty.bootstrap.AbstractBootstrap$PendingRegistrationPromise
+INSTRUMENTED io.netty.bootstrap.Bootstrap$3
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$9
+INSTRUMENTED io.netty.channel.socket.nio.NioSocketChannel$1
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$7
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$7
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$2
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$6$1
+INSTRUMENTED io.netty.channel.nio.NioEventLoop$2
+INSTRUMENTED io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe$1
+INSTRUMENTED io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe$2
+INSTRUMENTED io.netty.channel.nio.AbstractNioByteChannel$1
+INSTRUMENTED io.netty.channel.nio.AbstractNioChannel$2
+INSTRUMENTED io.netty.channel.nio.NioEventLoop$6
+INSTRUMENTED io.netty.channel.nio.NioEventLoopGroup
+INSTRUMENTED io.netty.channel.nio.AbstractNioChannel$1
+INSTRUMENTED io.netty.channel.group.DefaultChannelGroup$1
+INSTRUMENTED io.netty.channel.group.VoidChannelGroupFuture
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$1
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$11
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$9
+INSTRUMENTED io.netty.channel.AbstractChannel$AbstractUnsafe$8
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$13
+INSTRUMENTED io.netty.channel.local.LocalServerChannel$1
+INSTRUMENTED io.netty.channel.local.LocalChannel$4
+INSTRUMENTED io.netty.channel.local.LocalChannel$1
+INSTRUMENTED io.netty.channel.local.LocalServerChannel$2
+INSTRUMENTED io.netty.channel.CompleteChannelFuture
+INSTRUMENTED io.netty.channel.DefaultChannelPipeline$PendingHandlerCallback
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$5
+INSTRUMENTED io.netty.channel.VoidChannelPromise$1
+INSTRUMENTED io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor$1
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$10
+INSTRUMENTED io.netty.channel.AbstractChannelHandlerContext$AbstractWriteTask
+Problem with org/springframework/boot/autoconfigure/web/reactive/error/AbstractErrorWebExceptionHandler$ResponseContext.class: java.lang.NoClassDefFoundError: org/springframework/web/reactive/function/server/ServerResponse$Context
+Problem with org/springframework/boot/autoconfigure/web/reactive/WebFluxAutoConfiguration$EnableWebFluxConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/web/reactive/config/DelegatingWebFluxConfiguration
+Problem with org/springframework/boot/autoconfigure/mongo/embedded/EmbeddedMongoAutoConfiguration$ToStringFriendlyFeatureAwareVersion.class: java.lang.NoClassDefFoundError: de/flapdoodle/embed/mongo/distribution/IFeatureAwareVersion
+Problem with org/springframework/boot/autoconfigure/session/MongoSessionConfiguration$SpringBootMongoHttpSessionConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/session/data/mongo/config/annotation/web/http/MongoHttpSessionConfiguration
+Problem with org/springframework/boot/autoconfigure/session/MongoReactiveSessionConfiguration$SpringBootReactiveMongoWebSessionConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/session/data/mongo/config/annotation/web/reactive/ReactiveMongoWebSessionConfiguration
+Problem with org/springframework/boot/autoconfigure/security/servlet/StaticResourceRequest$StaticResourceRequestMatcher.class: java.lang.NoClassDefFoundError: org/springframework/security/web/util/matcher/RequestMatcher
+Problem with org/springframework/boot/autoconfigure/security/servlet/SpringBootWebSecurityConfiguration$DefaultConfigurerAdapter.class: java.lang.NoClassDefFoundError: org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$MBeanFactoryInitializer
+Problem with org/springframework/boot/autoconfigure/data/couchbase/SpringBootCouchbaseReactiveDataConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/data/couchbase/config/AbstractReactiveCouchbaseDataConfiguration
+Problem with org/springframework/boot/autoconfigure/web/reactive/WebFluxAutoConfiguration$WebFluxConfig.class: java.lang.NoClassDefFoundError: org/springframework/web/reactive/config/WebFluxConfigurer
+Problem with org/springframework/boot/autoconfigure/websocket/servlet/JettyWebSocketServletWebServerCustomizer$1.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/webapp/AbstractConfiguration
+Problem with org/springframework/boot/autoconfigure/batch/JpaBatchConfigurer.class: java.lang.NoClassDefFoundError: org/springframework/batch/core/configuration/annotation/BatchConfigurer
+Problem with org/springframework/boot/autoconfigure/mustache/MustacheResourceTemplateLoader.class: java.lang.NoClassDefFoundError: com/samskivert/mustache/Mustache$TemplateLoader
+Problem with org/springframework/boot/autoconfigure/jooq/SpringTransactionProvider.class: java.lang.NoClassDefFoundError: org/jooq/TransactionProvider
+Problem with org/springframework/boot/autoconfigure/jersey/JerseyAutoConfiguration$JacksonResourceConfigCustomizer$ObjectMapperContextResolver.class: java.lang.NoClassDefFoundError: javax/ws/rs/ext/ContextResolver
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$ValidationInitializer
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$CharsetInitializer
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$JacksonInitializer
+Problem with org/springframework/boot/autoconfigure/session/HazelcastSessionConfiguration$SpringBootHazelcastHttpSessionConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/session/hazelcast/config/annotation/web/http/HazelcastHttpSessionConfiguration
+Problem with org/springframework/boot/autoconfigure/mustache/MustacheEnvironmentCollector$PropertyVariableFetcher.class: java.lang.NoClassDefFoundError: com/samskivert/mustache/Mustache$VariableFetcher
+Problem with org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration$SpringBootFlyway.class: java.lang.NoClassDefFoundError: org/flywaydb/core/Flyway
+Problem with org/springframework/boot/autoconfigure/quartz/AutowireCapableBeanJobFactory.class: java.lang.NoClassDefFoundError: org/springframework/scheduling/quartz/SpringBeanJobFactory
+Problem with org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2WebSecurityConfiguration$OAuth2WebSecurityConfigurerAdapter.class: java.lang.NoClassDefFoundError: org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter
+Problem with org/springframework/boot/autoconfigure/data/mongo/MongoDataAutoConfiguration$GridFsMongoDbFactory.class: java.lang.NoClassDefFoundError: org/springframework/data/mongodb/MongoDbFactory
+Problem with org/springframework/boot/autoconfigure/data/couchbase/SpringBootCouchbaseConfigurer.class: java.lang.NoClassDefFoundError: org/springframework/data/couchbase/config/CouchbaseConfigurer
+Problem with org/springframework/boot/autoconfigure/data/couchbase/SpringBootCouchbaseDataConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/data/couchbase/config/AbstractCouchbaseDataConfiguration
+Problem with org/springframework/boot/autoconfigure/data/AbstractRepositoryConfigurationSourceSupport$1.class: java.lang.NoClassDefFoundError: org/springframework/data/repository/config/AnnotationRepositoryConfigurationSource
+Problem with org/springframework/boot/autoconfigure/data/rest/SpringBootRepositoryRestConfigurer.class: java.lang.NoClassDefFoundError: org/springframework/data/rest/webmvc/config/RepositoryRestConfigurerAdapter
+Problem with org/springframework/boot/autoconfigure/session/RedisReactiveSessionConfiguration$SpringBootRedisWebSessionConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/session/data/redis/config/annotation/web/server/RedisWebSessionConfiguration
+Problem with org/springframework/boot/autoconfigure/session/RedisSessionConfiguration$SpringBootRedisHttpSessionConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/session/data/redis/config/annotation/web/http/RedisHttpSessionConfiguration
+Problem with org/springframework/boot/autoconfigure/session/JdbcSessionConfiguration$SpringBootJdbcHttpSessionConfiguration.class: java.lang.NoClassDefFoundError: org/springframework/session/jdbc/config/annotation/web/http/JdbcHttpSessionConfiguration
+Problem with org/springframework/boot/autoconfigure/batch/BasicBatchConfigurer.class: java.lang.NoClassDefFoundError: org/springframework/batch/core/configuration/annotation/BatchConfigurer
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$1
+Problem with org/springframework/boot/autoconfigure/mustache/MustacheEnvironmentCollector.class: java.lang.NoClassDefFoundError: com/samskivert/mustache/DefaultCollector
+Problem with org/springframework/boot/autoconfigure/jooq/JooqExceptionTranslator.class: java.lang.NoClassDefFoundError: org/jooq/impl/DefaultExecuteListener
+Problem with org/springframework/boot/autoconfigure/jooq/SpringTransaction.class: java.lang.NoClassDefFoundError: org/jooq/Transaction
+Problem with org/springframework/boot/autoconfigure/security/servlet/PathRequest$H2ConsoleRequestMatcher.class: java.lang.NoClassDefFoundError: org/springframework/security/web/util/matcher/RequestMatcher
+Problem with org/springframework/boot/autoconfigure/security/reactive/StaticResourceRequest$StaticResourceServerWebExchange.class: java.lang.NoClassDefFoundError: org/springframework/security/web/server/util/matcher/ServerWebExchangeMatcher
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$MessageConverterInitializer
+Problem with org/springframework/boot/autoconfigure/integration/IntegrationAutoConfigurationScanRegistrar.class: java.lang.NoClassDefFoundError: org/springframework/integration/config/IntegrationComponentScanRegistrar
+INSTRUMENTED org.springframework.boot.autoconfigure.BackgroundPreinitializer$ConversionServiceInitializer
+Problem with org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$DataSourceClosingSpringLiquibase.class: java.lang.NoClassDefFoundError: liquibase/integration/spring/SpringLiquibase
+Problem with org/springframework/boot/autoconfigure/jms/artemis/ArtemisNoOpBindingRegistry.class: java.lang.NoClassDefFoundError: org/apache/activemq/artemis/spi/core/naming/BindingRegistry
+Problem with ch/qos/logback/classic/boolex/EvaluatorTemplate.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with ch/qos/logback/classic/gaffer/AppenderDelegate$_closure1.class: java.lang.NoClassDefFoundError: org/codehaus/groovy/runtime/GeneratedClosure
+Problem with ch/qos/logback/classic/gaffer/AppenderDelegate.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with ch/qos/logback/classic/gaffer/ComponentDelegate.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with ch/qos/logback/classic/gaffer/ConfigurationDelegate$_copyContributions_closure2.class: java.lang.NoClassDefFoundError: org/codehaus/groovy/runtime/GeneratedClosure
+Problem with ch/qos/logback/classic/gaffer/ConfigurationDelegate$_logger_closure1.class: java.lang.NoClassDefFoundError: org/codehaus/groovy/runtime/GeneratedClosure
+Problem with ch/qos/logback/classic/gaffer/ConfigurationDelegate.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with ch/qos/logback/classic/gaffer/GafferConfigurator$_run_closure1.class: java.lang.NoClassDefFoundError: org/codehaus/groovy/runtime/GeneratedClosure
+Problem with ch/qos/logback/classic/gaffer/GafferConfigurator.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with ch/qos/logback/classic/gaffer/NestingType.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with ch/qos/logback/classic/gaffer/PropertyUtil$_upperCaseFirstLetter_closure1.class: java.lang.NoClassDefFoundError: org/codehaus/groovy/runtime/GeneratedClosure
+Problem with ch/qos/logback/classic/gaffer/PropertyUtil.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+INSTRUMENTED ch.qos.logback.classic.Logger
+Problem with org/springframework/beans/factory/config/ProviderCreatingFactoryBean$TargetBeanProvider.class: java.lang.NoClassDefFoundError: javax/inject/Provider
+Problem with org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330DependencyProvider.class: java.lang.NoClassDefFoundError: javax/inject/Provider
+INSTRUMENTED org.springframework.beans.factory.support.DisposableBeanAdapter
+Problem with org/springframework/beans/factory/groovy/GroovyDynamicElementReader$_invokeMethod_closure1.class: java.lang.NoClassDefFoundError: org/codehaus/groovy/runtime/GeneratedClosure
+Problem with org/springframework/beans/factory/groovy/GroovyDynamicElementReader.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObjectSupport
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionReader$GroovyRuntimeBeanReference.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionWrapper.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObjectSupport
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionReader$3.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObjectSupport
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionReader$GroovyRuntimeBeanReference$GroovyPropertyValue.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObjectSupport
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionReader.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionReader$1.class: java.lang.NoClassDefFoundError: groovy/lang/Closure
+Problem with org/springframework/beans/factory/groovy/GroovyBeanDefinitionReader$2.class: java.lang.NoClassDefFoundError: groovy/lang/Binding
+Problem with org/springframework/jca/support/SimpleBootstrapContext.class: java.lang.NoClassDefFoundError: javax/resource/spi/BootstrapContext
+Problem with org/springframework/jca/context/SpringContextResourceAdapter.class: java.lang.NoClassDefFoundError: javax/resource/spi/ResourceAdapter
+Problem with org/springframework/jca/cci/core/support/CommAreaRecord.class: java.lang.NoClassDefFoundError: javax/resource/cci/Record
+Problem with org/springframework/jca/cci/connection/ConnectionSpecConnectionFactoryAdapter.class: java.lang.NoClassDefFoundError: javax/resource/cci/ConnectionFactory
+Problem with org/springframework/jca/cci/connection/SingleConnectionFactory.class: java.lang.NoClassDefFoundError: javax/resource/cci/ConnectionFactory
+Problem with org/springframework/jca/cci/connection/DelegatingConnectionFactory.class: java.lang.NoClassDefFoundError: javax/resource/cci/ConnectionFactory
+Problem with org/springframework/jca/cci/connection/TransactionAwareConnectionFactoryProxy.class: java.lang.NoClassDefFoundError: javax/resource/cci/ConnectionFactory
+Problem with org/springframework/jca/cci/connection/NotSupportedRecordFactory.class: java.lang.NoClassDefFoundError: javax/resource/cci/RecordFactory
+Problem with org/springframework/jca/endpoint/GenericMessageEndpointFactory$GenericMessageEndpoint.class: java.lang.NoClassDefFoundError: javax/resource/spi/endpoint/MessageEndpoint
+Problem with org/springframework/jca/endpoint/AbstractMessageEndpointFactory.class: java.lang.NoClassDefFoundError: javax/resource/spi/endpoint/MessageEndpointFactory
+Problem with org/springframework/jca/endpoint/GenericMessageEndpointFactory.class: java.lang.NoClassDefFoundError: javax/resource/spi/endpoint/MessageEndpointFactory
+Problem with org/springframework/jca/endpoint/AbstractMessageEndpointFactory$AbstractMessageEndpoint.class: java.lang.NoClassDefFoundError: javax/resource/spi/endpoint/MessageEndpoint
+Problem with org/springframework/jca/work/SimpleTaskWorkManager$DelegatingWorkAdapter.class: java.lang.NoClassDefFoundError: javax/resource/spi/work/Work
+Problem with org/springframework/jca/work/SimpleTaskWorkManager.class: java.lang.NoClassDefFoundError: javax/resource/spi/work/WorkManager
+Problem with org/springframework/jca/work/DelegatingWork.class: java.lang.NoClassDefFoundError: javax/resource/spi/work/Work
+Problem with org/springframework/jca/work/WorkManagerTaskExecutor.class: java.lang.NoClassDefFoundError: javax/resource/spi/work/WorkManager
+Problem with org/springframework/transaction/jta/JtaAfterCompletionSynchronization.class: java.lang.NoClassDefFoundError: javax/transaction/Synchronization
+Problem with org/springframework/transaction/jta/UserTransactionAdapter.class: java.lang.NoClassDefFoundError: javax/transaction/UserTransaction
+Problem with org/springframework/transaction/jta/ManagedTransactionAdapter.class: java.lang.NoClassDefFoundError: javax/transaction/Transaction
+Problem with org/springframework/transaction/jta/WebSphereUowTransactionManager$UOWActionAdapter.class: java.lang.NoClassDefFoundError: com/ibm/wsspi/uow/UOWAction
+Problem with org/springframework/transaction/jta/SpringJtaSynchronizationAdapter.class: java.lang.NoClassDefFoundError: javax/transaction/Synchronization
+Problem with org/springframework/boot/jdbc/EmbeddedDatabaseConnection$IsEmbedded.class: java.lang.NoClassDefFoundError: org/springframework/jdbc/core/ConnectionCallback
+Problem with org/springframework/boot/json/GsonJsonParser$MapTypeToken.class: java.lang.NoClassDefFoundError: com/google/gson/reflect/TypeToken
+Problem with org/springframework/boot/web/embedded/undertow/UndertowCompressionConfigurer$CompressibleMimeTypePredicate.class: java.lang.NoClassDefFoundError: io/undertow/predicate/Predicate
+Problem with org/springframework/boot/web/embedded/jetty/ServletContextInitializerConfiguration.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/webapp/AbstractConfiguration
+Problem with org/springframework/boot/security/servlet/ApplicationContextRequestMatcher.class: java.lang.NoClassDefFoundError: org/springframework/security/web/util/matcher/RequestMatcher
+Problem with org/springframework/boot/security/reactive/ApplicationContextServerWebExchangeMatcher.class: java.lang.NoClassDefFoundError: org/springframework/security/web/server/util/matcher/ServerWebExchangeMatcher
+Problem with org/springframework/boot/logging/log4j2/Log4J2LoggingSystem$1.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/filter/AbstractFilter
+Problem with org/springframework/boot/json/GsonJsonParser$ListTypeToken.class: java.lang.NoClassDefFoundError: com/google/gson/reflect/TypeToken
+Problem with org/springframework/boot/web/embedded/undertow/UndertowServletWebServerFactory$LoaderHidingResourceManager.class: java.lang.NoClassDefFoundError: io/undertow/server/handlers/resource/ResourceManager
+Problem with org/springframework/boot/web/embedded/undertow/UndertowServletWebServerFactory$MetaInfResourcesResourceManager.class: java.lang.NoClassDefFoundError: io/undertow/server/handlers/resource/ResourceManager
+Problem with org/springframework/boot/web/embedded/undertow/CompositeResourceManager.class: java.lang.NoClassDefFoundError: io/undertow/server/handlers/resource/ResourceManager
+Problem with org/springframework/boot/web/embedded/jetty/JettyServletWebServerFactory$1.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/webapp/AbstractConfiguration
+Problem with org/springframework/boot/web/reactive/result/view/MustacheViewResolver.class: java.lang.NoClassDefFoundError: org/springframework/web/reactive/result/view/UrlBasedViewResolver
+Problem with org/springframework/boot/web/reactive/result/view/MustacheView.class: java.lang.NoClassDefFoundError: org/springframework/web/reactive/result/view/AbstractUrlBasedView
+Problem with org/springframework/boot/orm/jpa/hibernate/SpringImplicitNamingStrategy.class: java.lang.NoClassDefFoundError: org/hibernate/boot/model/naming/ImplicitNamingStrategyJpaCompliantImpl
+Problem with org/springframework/boot/orm/jpa/hibernate/SpringPhysicalNamingStrategy.class: java.lang.NoClassDefFoundError: org/hibernate/boot/model/naming/PhysicalNamingStrategy
+Problem with org/springframework/boot/liquibase/CommonsLoggingLiquibaseLogger.class: java.lang.NoClassDefFoundError: liquibase/logging/core/AbstractLogger
+Problem with org/springframework/boot/web/embedded/undertow/UndertowCompressionConfigurer$MaxSizePredicate.class: java.lang.NoClassDefFoundError: io/undertow/predicate/Predicate
+Problem with org/springframework/boot/web/embedded/undertow/FileSessionPersistence.class: java.lang.NoClassDefFoundError: io/undertow/servlet/api/SessionPersistenceManager
+Problem with org/springframework/boot/web/embedded/undertow/JarResourceManager.class: java.lang.NoClassDefFoundError: io/undertow/server/handlers/resource/ResourceManager
+INSTRUMENTED org.springframework.boot.web.embedded.netty.NettyWebServer$1
+Problem with org/springframework/boot/web/embedded/jetty/JettyHandlerWrappers$ServerHeaderHandler.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/server/handler/HandlerWrapper
+Problem with org/springframework/boot/web/embedded/jetty/JettyServletWebServerFactory$LoaderHidingResource.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/util/resource/Resource
+Problem with org/springframework/boot/web/embedded/jetty/JettyEmbeddedWebAppContext.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/webapp/WebAppContext
+Problem with org/springframework/boot/web/embedded/jetty/JettyServletWebServerFactory$2.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/webapp/AbstractConfiguration
+Problem with org/springframework/boot/web/embedded/jetty/JettyEmbeddedErrorHandler.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/server/handler/ErrorHandler
+Problem with org/springframework/boot/web/embedded/jetty/JettyEmbeddedWebAppContext$JettyEmbeddedServletHandler.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/servlet/ServletHandler
+Problem with org/springframework/boot/web/embedded/jetty/JettyWebServer$1.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/util/component/AbstractLifeCycle
+Problem with org/springframework/boot/web/embedded/jetty/JasperInitializer.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/util/component/AbstractLifeCycle
+Problem with org/springframework/boot/web/embedded/jetty/ServletContextInitializerConfiguration$Initializer.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/util/component/AbstractLifeCycle
+Problem with org/springframework/boot/orm/jpa/hibernate/SpringJtaPlatform.class: java.lang.NoClassDefFoundError: org/hibernate/engine/transaction/jta/platform/internal/AbstractJtaPlatform
+Problem with org/springframework/boot/logging/log4j2/ExtendedWhitespaceThrowablePatternConverter.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/pattern/ThrowablePatternConverter
+Problem with org/springframework/boot/logging/log4j2/SpringBootConfigurationFactory.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/config/ConfigurationFactory
+Problem with org/springframework/boot/logging/log4j2/WhitespaceThrowablePatternConverter.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/pattern/ThrowablePatternConverter
+Problem with org/springframework/boot/logging/log4j2/ColorConverter.class: java.lang.NoClassDefFoundError: org/apache/logging/log4j/core/pattern/LogEventPatternConverter
+Problem with org/springframework/boot/jta/atomikos/AtomikosConnectionFactoryBean.class: java.lang.NoClassDefFoundError: com/atomikos/jms/AtomikosConnectionFactoryBean
+Problem with org/springframework/boot/jta/atomikos/AtomikosDataSourceBean.class: java.lang.NoClassDefFoundError: com/atomikos/jdbc/AtomikosDataSourceBean
+Problem with org/springframework/boot/jta/bitronix/PoolingConnectionFactoryBean$DirectXAConnectionFactory.class: java.lang.NoClassDefFoundError: javax/jms/XAConnectionFactory
+Problem with org/springframework/boot/jta/bitronix/PoolingDataSourceBean.class: java.lang.NoClassDefFoundError: bitronix/tm/resource/jdbc/PoolingDataSource
+Problem with org/springframework/boot/jta/bitronix/PoolingConnectionFactoryBean.class: java.lang.NoClassDefFoundError: bitronix/tm/resource/jms/PoolingConnectionFactory
+Problem with org/springframework/boot/jta/narayana/DataSourceXAResourceRecoveryHelper.class: java.lang.NoClassDefFoundError: com/arjuna/ats/jta/recovery/XAResourceRecoveryHelper
+Problem with org/springframework/boot/liquibase/SpringPackageScanClassResolver.class: java.lang.NoClassDefFoundError: liquibase/servicelocator/DefaultPackageScanClassResolver
+Problem with org/hibernate/validator/internal/xml/binding/Adapter1.class: java.lang.NoClassDefFoundError: javax/xml/bind/annotation/adapters/XmlAdapter
+INSTRUMENTED org.apache.logging.slf4j.SLF4JLogger
+INSTRUMENTED reactor.ipc.netty.PublisherContext$ScalarMap
+INSTRUMENTED reactor.ipc.netty.http.client.HttpClientFormEncoder
+INSTRUMENTED reactor.ipc.netty.http.server.HttpServerHandler
+INSTRUMENTED reactor.ipc.netty.http.server.HttpServerHandler$TerminateHttpHandler
+INSTRUMENTED reactor.ipc.netty.channel.ChannelOperationsHandler
+INSTRUMENTED reactor.ipc.netty.channel.ChannelOperationsHandler$PublisherSender
+INSTRUMENTED reactor.ipc.netty.channel.ServerContextHandler
+INSTRUMENTED reactor.ipc.netty.channel.ClientContextHandler
+INSTRUMENTED reactor.ipc.netty.channel.CloseableContextHandler
+INSTRUMENTED reactor.core.scheduler.ExecutorScheduler$ExecutorPlainRunnable
+INSTRUMENTED reactor.core.scheduler.WorkerTask
+INSTRUMENTED reactor.core.scheduler.PeriodicWorkerTask
+INSTRUMENTED reactor.core.scheduler.SchedulerTask
+INSTRUMENTED reactor.core.scheduler.ExecutorScheduler$ExecutorSchedulerTrampolineWorker
+INSTRUMENTED reactor.core.scheduler.ExecutorScheduler$ExecutorTrackedRunnable
+INSTRUMENTED reactor.core.scheduler.ElasticScheduler$DirectScheduleTask
+INSTRUMENTED reactor.core.scheduler.PeriodicSchedulerTask
+INSTRUMENTED reactor.core.publisher.Hooks
+INSTRUMENTED reactor.core.publisher.MonoCacheTime
+INSTRUMENTED reactor.core.publisher.FluxSubscribeOn$SubscribeOnSubscriber
+INSTRUMENTED reactor.core.publisher.MonoPublishOn$PublishOnSubscriber
+INSTRUMENTED reactor.core.publisher.FluxDelaySequence$DelaySubscriber$OnError
+INSTRUMENTED reactor.core.publisher.WorkQueueProcessor$WorkQueueInner
+INSTRUMENTED reactor.core.publisher.FluxRefCountGrace$RefConnection
+INSTRUMENTED reactor.core.publisher.FluxError
+INSTRUMENTED reactor.core.publisher.FluxDelaySequence$DelaySubscriber$OnComplete
+INSTRUMENTED reactor.core.publisher.TopicProcessor
+INSTRUMENTED reactor.core.publisher.WorkQueueProcessor
+INSTRUMENTED reactor.core.publisher.FluxInterval$IntervalRunnable
+INSTRUMENTED reactor.core.publisher.FluxSubscribeOnValue$ScheduledScalar
+INSTRUMENTED reactor.core.publisher.FluxPublishOn$PublishOnConditionalSubscriber
+INSTRUMENTED reactor.core.publisher.TopicProcessor$TopicInner$1
+INSTRUMENTED reactor.core.publisher.MonoError
+INSTRUMENTED reactor.core.publisher.FluxCallable
+INSTRUMENTED reactor.core.publisher.FluxEmpty
+INSTRUMENTED reactor.core.publisher.MonoDelay$MonoDelayRunnable
+INSTRUMENTED reactor.core.publisher.EventLoopProcessor$RequestTask
+INSTRUMENTED reactor.core.publisher.FluxWindowTimeout$WindowTimeoutSubscriber$ConsumerIndexHolder
+INSTRUMENTED reactor.core.publisher.FluxJust
+INSTRUMENTED reactor.core.publisher.FluxOnBackpressureBufferTimeout$BackpressureBufferTimeoutSubscriber
+INSTRUMENTED reactor.core.publisher.FluxSubscribeOnCallable$CallableSubscribeOnSubscription
+INSTRUMENTED reactor.core.publisher.MonoEmpty
+INSTRUMENTED reactor.core.publisher.MonoSupplier
+INSTRUMENTED reactor.core.publisher.MonoCallable
+INSTRUMENTED reactor.core.publisher.FluxCancelOn$CancelSubscriber
+INSTRUMENTED reactor.core.publisher.MonoCallableOnAssembly
+INSTRUMENTED reactor.core.publisher.FluxPublishOn$PublishOnSubscriber
+INSTRUMENTED reactor.core.publisher.BlockingIterable$SubscriberIterator
+INSTRUMENTED reactor.core.publisher.MonoRunnable
+INSTRUMENTED reactor.core.publisher.FluxSubscribeOnValue$ScheduledEmpty
+INSTRUMENTED reactor.core.publisher.EventLoopProcessor$EventLoopContext
+INSTRUMENTED reactor.core.publisher.FluxCallableOnAssembly
+INSTRUMENTED reactor.core.publisher.EventLoopProcessor
+INSTRUMENTED reactor.core.publisher.MonoJust
+INSTRUMENTED reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber
+INSTRUMENTED reactor.core.publisher.TopicProcessor$TopicInner
+INSTRUMENTED reactor.core.publisher.WorkQueueProcessor$WorkQueueInner$1
+INSTRUMENTED reactor.core.publisher.MonoToCompletableFuture
+Problem with reactor/core/publisher/MonoExtensionsKt$toMono$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/functions/Function0
+Problem with reactor/core/publisher/FluxExtensionsKt$toFlux$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/internal/markers/KMappedMarker
+Problem with reactor/core/publisher/FluxExtensionsKt$toIterable$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/internal/markers/KMappedMarker
+INSTRUMENTED com.rabbitmq.client.impl.AbstractMetricsCollector$1
+INSTRUMENTED com.rabbitmq.client.impl.ChannelN
+INSTRUMENTED com.rabbitmq.client.impl.SocketFrameHandler$1
+INSTRUMENTED com.rabbitmq.client.impl.AMQConnection$MainLoop
+INSTRUMENTED com.rabbitmq.client.impl.AbstractMetricsCollector$2
+INSTRUMENTED com.rabbitmq.client.impl.HeartbeatSender$HeartbeatRunnable
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerDispatcher$5
+INSTRUMENTED com.rabbitmq.client.impl.nio.NioLoop$1
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerWorkService$WorkPoolRunnable
+INSTRUMENTED com.rabbitmq.client.impl.recovery.AutorecoveringChannel
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerDispatcher$1
+INSTRUMENTED com.rabbitmq.client.impl.AMQConnection$SocketCloseWait
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerDispatcher$4
+INSTRUMENTED com.rabbitmq.client.impl.AMQCommand
+INSTRUMENTED com.rabbitmq.client.impl.ChannelManager$1
+INSTRUMENTED com.rabbitmq.client.impl.ChannelManager$2
+INSTRUMENTED com.rabbitmq.client.impl.nio.NioLoop
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerDispatcher$6
+INSTRUMENTED com.rabbitmq.client.impl.recovery.RecoveryAwareChannelN
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerDispatcher$2
+INSTRUMENTED com.rabbitmq.client.impl.ConsumerDispatcher$3
+INSTRUMENTED io.netty.util.internal.ThreadLocalRandom$1
+INSTRUMENTED io.netty.util.internal.ObjectCleaner$1
+INSTRUMENTED io.netty.util.HashedWheelTimer$Worker
+INSTRUMENTED io.netty.util.ThreadDeathWatcher$Watcher
+INSTRUMENTED io.netty.util.concurrent.SingleThreadEventExecutor$1
+INSTRUMENTED io.netty.util.concurrent.UnorderedThreadPoolEventExecutor$RunnableScheduledFutureTask
+INSTRUMENTED io.netty.util.concurrent.DefaultPromise$4
+INSTRUMENTED io.netty.util.concurrent.PromiseTask$RunnableAdapter
+INSTRUMENTED io.netty.util.concurrent.SingleThreadEventExecutor$5
+INSTRUMENTED io.netty.util.concurrent.SingleThreadEventExecutor$3
+INSTRUMENTED io.netty.util.concurrent.AbstractScheduledEventExecutor$3
+INSTRUMENTED io.netty.util.concurrent.AbstractScheduledEventExecutor
+INSTRUMENTED io.netty.util.concurrent.GlobalEventExecutor$TaskRunner
+INSTRUMENTED io.netty.util.concurrent.DefaultPromise
+INSTRUMENTED io.netty.util.concurrent.SingleThreadEventExecutor
+INSTRUMENTED io.netty.util.internal.logging.Log4J2Logger
+INSTRUMENTED io.netty.util.concurrent.PromiseTask
+INSTRUMENTED io.netty.util.concurrent.CompleteFuture
+INSTRUMENTED io.netty.util.concurrent.FastThreadLocalRunnable
+INSTRUMENTED io.netty.util.concurrent.UnorderedThreadPoolEventExecutor$NonNotifyRunnable
+INSTRUMENTED io.netty.util.concurrent.NonStickyEventExecutorGroup$NonStickyOrderedEventExecutor
+INSTRUMENTED io.netty.util.concurrent.AbstractScheduledEventExecutor$2
+INSTRUMENTED io.netty.util.concurrent.GlobalEventExecutor
+INSTRUMENTED io.netty.util.concurrent.GlobalEventExecutor$1
+INSTRUMENTED io.netty.util.concurrent.DefaultPromise$3
+INSTRUMENTED io.netty.util.ReferenceCountUtil$ReleasingTask
+INSTRUMENTED io.netty.util.concurrent.FastThreadLocalThread
+INSTRUMENTED io.netty.util.concurrent.FailedFuture
+INSTRUMENTED io.netty.util.concurrent.ImmediateEventExecutor$ImmediatePromise
+INSTRUMENTED io.netty.util.concurrent.AbstractEventExecutor
+INSTRUMENTED io.netty.util.concurrent.DefaultPromise$1
+INSTRUMENTED io.netty.util.concurrent.ScheduledFutureTask
+INSTRUMENTED io.netty.util.concurrent.FastThreadLocal$1
+INSTRUMENTED io.netty.util.concurrent.MultithreadEventExecutorGroup
+INSTRUMENTED io.netty.util.concurrent.DefaultProgressivePromise
+INSTRUMENTED io.netty.util.concurrent.SucceededFuture
+INSTRUMENTED io.netty.util.concurrent.AbstractFuture
+INSTRUMENTED io.netty.util.concurrent.AbstractEventExecutorGroup
+INSTRUMENTED io.netty.util.concurrent.DefaultEventExecutor
+INSTRUMENTED io.netty.util.concurrent.DefaultPromise$2
+INSTRUMENTED io.netty.util.concurrent.SingleThreadEventExecutor$2
+INSTRUMENTED io.netty.util.concurrent.DefaultEventExecutorGroup
+INSTRUMENTED io.netty.util.concurrent.SingleThreadEventExecutor$4
+INSTRUMENTED io.netty.util.concurrent.ImmediateEventExecutor$ImmediateProgressivePromise
+INSTRUMENTED org.springframework.instrument.classloading.ShadowingClassLoader
+INSTRUMENTED org.springframework.scheduling.config.Task
+INSTRUMENTED org.springframework.scheduling.support.ScheduledMethodRunnable
+INSTRUMENTED org.springframework.scheduling.support.DelegatingErrorHandlingRunnable
+INSTRUMENTED org.springframework.scheduling.support.MethodInvokingRunnable
+INSTRUMENTED org.springframework.scheduling.annotation.AsyncResult
+INSTRUMENTED org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler$DelegatingErrorHandlingCallable
+Problem with org/springframework/scheduling/concurrent/ConcurrentTaskScheduler$EnterpriseConcurrentTriggerScheduler$1.class: java.lang.NoClassDefFoundError: javax/enterprise/concurrent/Trigger
+INSTRUMENTED org.springframework.scheduling.concurrent.ReschedulingRunnable
+INSTRUMENTED org.springframework.context.support.AbstractApplicationContext$1
+Problem with org/springframework/context/support/GenericGroovyApplicationContext.class: java.lang.NoClassDefFoundError: groovy/lang/GroovyObject
+INSTRUMENTED org.springframework.context.support.ContextTypeMatchClassLoader
+Problem with org/springframework/context/support/BeanDefinitionDsl$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/functions/Function1
+Problem with org/springframework/context/support/BeanDefinitionDsl$environment$beans$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/functions/Function1
+Problem with org/springframework/context/support/BeanDefinitionDsl$bean$2.class: java.lang.NoClassDefFoundError: kotlin/jvm/functions/Function1
+Problem with org/springframework/context/support/BeanDefinitionDsl$profile$beans$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/functions/Function1
+Problem with org/springframework/context/support/BeanDefinitionDsl$bean$1.class: java.lang.NoClassDefFoundError: kotlin/jvm/functions/Function1
+Problem with org/springframework/web/socket/adapter/jetty/WebSocketToJettyExtensionConfigAdapter.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/websocket/api/extensions/ExtensionConfig
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$3.class: java.lang.NoClassDefFoundError: io/undertow/client/ClientCallback
+Problem with org/springframework/web/socket/sockjs/client/JettyXhrTransport$SockJsResponseListener.class: java.lang.NoClassDefFoundError: org/eclipse/jetty/client/api/Response$Listener$Adapter
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$2$1.class: java.lang.NoClassDefFoundError: io/undertow/client/ClientCallback
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$3$1.class: java.lang.NoClassDefFoundError: io/undertow/client/ClientCallback
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$3$1$1.class: java.lang.NoClassDefFoundError: io/undertow/util/StringReadChannelListener
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$SockJsResponseListener.class: java.lang.NoClassDefFoundError: org/xnio/ChannelListener
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$2.class: java.lang.NoClassDefFoundError: io/undertow/client/ClientCallback
+Problem with org/springframework/web/socket/sockjs/client/UndertowXhrTransport$1.class: java.lang.NoClassDefFoundError: io/undertow/client/ClientCallback
+INSTRUMENTED org.springframework.core.task.SimpleAsyncTaskExecutor$ConcurrencyThrottlingRunnable
+INSTRUMENTED org.springframework.core.OverridingClassLoader
+INSTRUMENTED org.springframework.core.DecoratingClassLoader
+INSTRUMENTED org.springframework.util.concurrent.DelegatingCompletableFuture
+INSTRUMENTED org.springframework.util.concurrent.ListenableFutureTask
+INSTRUMENTED org.springframework.util.concurrent.SettableListenableFuture$SettableTask
+INSTRUMENTED org.springframework.util.concurrent.CompletableToListenableFutureAdapter
+INSTRUMENTED org.springframework.util.concurrent.ListenableFutureAdapter
+INSTRUMENTED org.springframework.util.concurrent.SettableListenableFuture
+INSTRUMENTED org.springframework.util.concurrent.FutureAdapter
+INSTRUMENTED org.springframework.cglib.core.internal.LoadingCache$2
+Problem with org/springframework/cglib/transform/AbstractProcessTask.class: java.lang.NoClassDefFoundError: org/apache/tools/ant/Task
+Problem with org/springframework/cglib/transform/AbstractTransformTask.class: java.lang.NoClassDefFoundError: org/apache/tools/ant/Task
+INSTRUMENTED org.apache.http.concurrent.BasicFuture
+INSTRUMENTED org.apache.http.impl.bootstrap.RequestListener
+INSTRUMENTED org.apache.http.pool.AbstractConnPool$2
+INSTRUMENTED org.apache.http.impl.bootstrap.Worker
